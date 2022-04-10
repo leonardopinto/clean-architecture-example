@@ -1,5 +1,5 @@
 
-This is a sample solution for ASP.NET Core 6  following the principles of Clean Architecture. see Getting Started for full details. 
+This is a sample solution for ASP.NET Core 6  following the principles of Clean Architecture. See Getting Started for full details. 
 
 ## Technologies
 
