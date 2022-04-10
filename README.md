@@ -14,7 +14,7 @@ This is a sample solution for ASP.NET Core 6  following the principles of Clean 
 ## Getting Started
 
 1. Install the latest [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-2. Install the latest [Visual Studio 2022](https://nodejs.org/en/)
+2. Install the [Visual Studio 2022](https://visualstudio.microsoft.com/)
 ## Overview
 
 ### Domain
