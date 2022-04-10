@@ -12,8 +12,6 @@ This is a sample solution for ASP.NET Core 6  following the principles of Clean 
 
 ## Getting Started
 
-The easiest way to get started is to install the [NuGet package](https://www.nuget.org/packages/Clean.Architecture.Solution.Template) and run `dotnet new ca-sln`:
-
 1. Install the latest [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 2. Install the latest [Visual Studio 2022](https://nodejs.org/en/)
 ## Overview
