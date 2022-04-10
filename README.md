@@ -1,5 +1,5 @@
 
-This is a sample solution for ASP.NET Core 6  following the principles of Clean Architecture. See Getting Started for full details. 
+This is a sample solution for ASP.NET Core 6  following the principles of Clean Architecture. See getting started for full details. 
 
 ## Technologies
 
@@ -15,7 +15,7 @@ This is a sample solution for ASP.NET Core 6  following the principles of Clean 
 The easiest way to get started is to install the [NuGet package](https://www.nuget.org/packages/Clean.Architecture.Solution.Template) and run `dotnet new ca-sln`:
 
 1. Install the latest [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-2. Install the latest [Node.js LTS](https://nodejs.org/en/)
+2. Install the latest [Visual Studio 2022](https://nodejs.org/en/)
 ## Overview
 
 ### Domain
@@ -32,7 +32,7 @@ This layer contains classes for accessing external resources such as file system
 
 ### WebUI
 
-This layer is a single page application based on Angular 10 and ASP.NET Core 5. This layer depends on both the Application and Infrastructure layers, however, the dependency on Infrastructure is only to support dependency injection. Therefore only *Startup.cs* should reference Infrastructure.
+This layer is a pplication based on ASP.NET Core 6. This layer depends on both the Application and Infrastructure layers, however, the dependency on Infrastructure is only to support dependency injection. Therefore only *Startup.cs* should reference Infrastructure.
 
 ## License
 
