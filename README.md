@@ -37,15 +37,3 @@ This layer is a single page application based on Angular 10 and ASP.NET Core 5. 
 ## License
 
 This project is licensed with the [MIT license](LICENSE).
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
